@@ -1,6 +1,7 @@
 ### *Lingua Ignota*
 ## A Tale of Three Constructed Languages
 ### *Láadan and Toki Pona*
+#### by jan Wen
 
 ---
 
@@ -16,7 +17,7 @@
 - *Glossary of* 1011 nouns *and adjectives*
 - *Substitute words into* Latin phrases
 - *Meant as a* secret language *(citation needed)*
-- *Meant to* clearly and unambiguously express herself
+- *Meant to* clearly and unambiguously express oneself
 
 ^
 Hildegaard was a German abbess in Rupertsberg ca. 1200.
@@ -80,6 +81,11 @@ An obsession with hierarchy is a common trend in early conlangs!
 ^
 We could easily find ourselves saying that this language had a religious purpose for Hildegaard, but don't forget that she's an 11th century abbess. A lot of things in her life were probably very religious!
 
+---
+
+[.header: LitteraeIgnotae]
+
+# Lingae Ignotae bizimonza est
 
 ---
 
@@ -133,6 +139,12 @@ Suzette started writing Science Fiction to pay her tuition.
 
 - *there is* too much potential for misunderstanding
 
+^
+The problem is natural languages lack vocabulary for many things that are extremely important to women, making it cumbersome and inconvenient to talk about them. 
+
+^
+Furthermore, they lack ways to express emotional information conveniently. Much of that information had to be carried by body language and was almost entirely missing from written language. This leaves women vulnerable to hostile language followed by the “But all I said was….” excuse; and it restricted women to the largely useless “It wasn’t what you said, it was the way you said it!” defense against such hostility.
+
 ---
 
 | Láadan        | English
@@ -143,10 +155,12 @@ Suzette started writing Science Fiction to pay her tuition.
 | *doroledim*   | overeating followed by guilt *(when food is the only part of your life you have control over)*
 
 ^
-The final definition comes with a text, which does not fit on a slide, situating the act, by describing how the only thing in the average woman's life which she has control over is food.
+Illustrates English vocabulary being deceitful, and obscuring imperfection.
 
 ^
-Terms are often defined negatively, in terms of they are not, in an attempt to amend the way English does not match the way reality is perceived by Elgin and the women she interviewed.
+Defined negatively, in terms of what they are supposed to be, but they are not, in an attempt to amend the way English does not match the way reality is perceived by Elgin and the women she interviewed.
+
+<!----!>
 
 ---
 
@@ -161,6 +175,8 @@ Terms are often defined negatively, in terms of they are not, in an attempt to a
 | *ashon*  | *love for one* not related by blood, but heart-kin
 | *aye*    | *love which is an* unwelcome burden
 
+<------>
+
 ---
 
 | Láadan      | English
@@ -172,6 +188,10 @@ Terms are often defined negatively, in terms of they are not, in an attempt to a
 | *desháana*  | *menstruate* early
 | *wesháana*  | *menstruate* late
 | *ásháana*   | *menstruate* joyfully
+
+^
+Illustrates English vocabulary not being nuanced enough.
+
 ---
 
 | Láadan   | English
@@ -184,9 +204,12 @@ Terms are often defined negatively, in terms of they are not, in an attempt to a
 | *wa*     | *what I’m saying is true because* I have perceived it
 | *wi*     | *what I’m saying is true because* it’s self-evident
 
+^
+Illustrates English being too imprecise when it comes to emotional information.
+
 ---
 
-## A Brief Feminist Analysis of Láadan
+## A Brief Feminist Critique of Láadan
 
 - based on the experiences of Suzette
   *and the women whom she consulted*
@@ -197,7 +220,14 @@ Terms are often defined negatively, in terms of they are not, in an attempt to a
 - assumes traditional model of sex and gender:
   - *assumes* sex is binary
   - *assumes* gender is binary, immutable, determined by sex
-  
+ 
+---
+
+## bíilan ril le
+# wéhená 
+## Láadanth wa
+
+ 
 <!-- Láadan --!>
 
 One of the conspicuous things about the terms featured in the lexicon is that many of them are negative terms, as indicated by the prefix “ra.” It is striking that while Utopian societies are often structured along negative lines, their perfection being defined by the absence of certain ills and deficiencies present in reality, Láadan seems to contain many words which are attempts to improve language by revealing what things are not, . “Holiday” thus means one thing in standard English and in the mouths of speakers but has quite the opposite sense in the experience of these women, and a similar problem is observed in the case of the word “guest”. Láadan can clearly be seen as an attempt to reduce the deceptive nature of language observed in English, and it functions in a rather paradoxical way by coining words to describe what things are not, to refer to all the things that are not what they are said to be, or that do not correspond to the definition of the term used to describe them.
@@ -219,13 +249,86 @@ Evidentials are placed at the end of sentences and, like Speech Act Words, are o
 
 ---
 
+# Toki Pona
+
+- *Created by* Sonja Lang *ca.* 2001
+- *Rules for* phonology*,* morphology*,* grammar*, etc.*
+- *Oligoisolating;* closed *list of* 120 words
+- *Meant as a* coping mechanism for depression
+- *Within the framework of the* Sapir-Whorf *hypothesis*
+
+---
+
+| toki pona           | literal English          | English   |
+| ---                 | ---                      | ---       |
+| *telo*              | *"water"*                | *water*   |
+| *telo nasa*         | *"crazy water"*          | *alcohol* |
+| *tomo*              | *"house"*                | *house*   |
+| *tomo pi telo nasa* | *"house of crazy water"* | *bar*     |
+
+---
+
+> toki pi jan Wen li pona!
+
+| toki pona | English                             |
+| ---       | ---                                 |
+| *toki*    | *language, speech, to say, to talk* |
+| *jan*     | *person*                            |
+| *Wen*    | *(that's my name!)*                 |
+| *li*      | *(between subject and verb phrase)* |
+| *pona*    | *good*                              |
+
+---
+
+> toki pi jan Wen li pini, la o kama jo e telo nasa!
+
+| toki pona | English                                    |
+| ---       | ---                                        |
+| *pini*    | *end, finished*                            |
+| *la*      | *(between context phrase and main phrase)* |
+| *o*       | *(imperative)*                             |
+| *kama*    | *come*                                     |
+| *jo*      | *have*                                     |
+| *e*       | *(between verb and direct object)*         |
+
+---
+
+> > toki pi jan Wen li pini, la o kama jo e telo nasa!
+
+---
+
+> 言 ぴ 人 Wen り 終, ら お 来 有 え 水 狂！ 
+
+---
+
+> 言 的 人 Wen 哩 末, 喇 令 到 有 把 水 怪！
+
+---
+
+![fit](sitelen-sitelen-yellow.png)
+
+---
+
+# toki pona
+## li 
+# pona
+
+---
+
 # [fit] o pona mute tan kute!
 
 ---
 
 # References
 
-- *Creating a ‘Truer’ Language Within a Work of Fiction*
-  Ruth Menzies
-- *Láadan Language* *(<http://laadanlanguage.wordpress.com>)*
-  Suzette Haden Elgin *and others*
+---
+
+- *Lingua Ignota* *(Wikipedia)*
+- *Creating a ‘Truer’ Language Within a Work of Fiction* *(E-rea)*
+  *by* Ruth Menzies
+- *Láadan Language* *(laadanlanguage.wordpress.com)*
+  *by* Suzette Haden Elgin *and the Láadan community*
+- *More Than Words: Láadan* *(Autostraddle)*
+  *by* Cara Giaimo
+- *Toki Pona: The Language of Good* *(Tawahid)*
+  *by* Sonja Lang
