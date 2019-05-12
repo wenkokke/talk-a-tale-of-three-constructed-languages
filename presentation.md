@@ -147,12 +147,12 @@ Furthermore, they lack ways to express emotional information conveniently. Much 
 
 ---
 
-| Láadan        | English
-| ---           | ---
-| *lowitheláad* | to feel another's feelings as if directly
-| *radíidin*    | non-holiday, holiday more work that it’s worth*, a time allegedly a holiday but actually so much a burden because of work and preparations that it is a dreaded occasion; especially when there are too many guests and none of them help*
-| *rathoo*      | non-guest*, someone who comes to visit knowing perfectly well that* they are intruding and causing difficulty
-| *doroledim*   | overeating followed by guilt *(when food is the only part of your life you have control over)*
+| Láadan        | English                                                                                                                                                                                                                                    |
+| ---           | ---                                                                                                                                                                                                                                        |
+| *lowitheláad* | to feel another's feelings as if directly                                                                                                                                                                                                  |
+| *radíidin*    | non-holiday, holiday more work that it’s worth*, a time allegedly a holiday but actually so much a burden because of work and preparations that it is a dreaded occasion; especially when there are too many guests and none of them help* |
+| *rathóo*      | non-guest*, someone who comes to visit knowing perfectly well that* they are intruding and causing difficulty                                                                                                                              |
+| *doroledim*   | overeating followed by guilt *(when food is the only part of your life you have control over)*                                                                                                                                             |
 
 ^
 Illustrates English vocabulary being deceitful, and obscuring imperfection.
@@ -160,49 +160,32 @@ Illustrates English vocabulary being deceitful, and obscuring imperfection.
 ^
 Defined negatively, in terms of what they are supposed to be, but they are not, in an attempt to amend the way English does not match the way reality is perceived by Elgin and the women she interviewed.
 
-<!----!>
-
 ---
 
-| Láadan   | English
-| ---      | ---
-| *a*      | love
-| *azh*    | *love for one* sexually desired now
-| *áazh*   | *love for one* sexually desired at one time, but not now
-| *ab*     | *love for one* liked but not respected
-| *ad*     | *love for one* respected but not liked
-| *am*     | *love for one* related by blood
-| *ashon*  | *love for one* not related by blood, but heart-kin
-| *aye*    | *love which is an* unwelcome burden
-
-<------>
-
----
-
-| Láadan      | English
-| ---         | ---
-| *osháana*   | menstruate
-| *elasháana* | *menstruate* for the first time
-| *zhesháana* | *menstruate* in sync with another woman
-| *husháana*  | *menstruate* painfully
-| *desháana*  | *menstruate* early
-| *wesháana*  | *menstruate* late
-| *ásháana*   | *menstruate* joyfully
+| Láadan      | English                                 |
+| ---         | ---                                     |
+| *osháana*   | menstruate                              |
+| *elasháana* | *menstruate* for the first time         |
+| *zhesháana* | *menstruate* in sync with another woman |
+| *husháana*  | *menstruate* painfully                  |
+| *desháana*  | *menstruate* early                      |
+| *wesháana*  | *menstruate* late                       |
+| *ásháana*   | *menstruate* joyfully                   |
 
 ^
 Illustrates English vocabulary not being nuanced enough.
 
 ---
 
-| Láadan   | English
-| ---      | ---
-| *bíi*    | *I say to you* as a statement
-| *báa"*   | *I say to you* as a question
-| *bíid*   | *I say to you* in anger
-| *bíida*  | *I say to you* in jest
-| *...*    | *...*
-| *wa*     | *what I’m saying is true because* I have perceived it
-| *wi*     | *what I’m saying is true because* it’s self-evident
+| Láadan  | English                                               |
+| ---     | ---                                                   |
+| *bíi*   | *I say to you* as a statement                         |
+| *báa*   | *I say to you* as a question                          |
+| *bíid*  | *I say to you* in anger                               |
+| *bíida* | *I say to you* in jest                                |
+| *...*   | *...*                                                 |
+| *wa*    | *what I’m saying is true because* I have perceived it |
+| *wi*    | *what I’m saying is true because* it’s self-evident   |
 
 ^
 Illustrates English being too imprecise when it comes to emotional information.
@@ -227,21 +210,6 @@ Illustrates English being too imprecise when it comes to emotional information.
 # wéhená 
 ## Láadanth wa
 
- 
-<!-- Láadan --!>
-
-One of the conspicuous things about the terms featured in the lexicon is that many of them are negative terms, as indicated by the prefix “ra.” It is striking that while Utopian societies are often structured along negative lines, their perfection being defined by the absence of certain ills and deficiencies present in reality, Láadan seems to contain many words which are attempts to improve language by revealing what things are not, . “Holiday” thus means one thing in standard English and in the mouths of speakers but has quite the opposite sense in the experience of these women, and a similar problem is observed in the case of the word “guest”. Láadan can clearly be seen as an attempt to reduce the deceptive nature of language observed in English, and it functions in a rather paradoxical way by coining words to describe what things are not, to refer to all the things that are not what they are said to be, or that do not correspond to the definition of the term used to describe them.
-
-Láadan also reflects Elgin’s desire to eliminate discord and misunderstanding in human communication by introducing what she terms Speech Act words. These are obligatory and always occupy the first position in any Láadan sentence.
-
-The Speech Act words bear witness to Elgin’s attempt to make speech clearer and more explicit, by creating a language in which the speaker must not only state whether he/she is stating or asking, etc., but also define the type of statement according to the perceived context in which it is formulated and meant to be received. Meaning and form, it is suggested, are thus connected more tightly in Láadan than in English, reducing, one can only surmise, the potentially deceptive nature of the language. The extremely cumbersome nature of this particular linguistic device appears to have escaped its creator.
-
-One final detail also needs to be mentioned: Láadan possesses evidentials, to reveal why the speaker feels justified in claiming that the words spoken are true.
-
-Evidentials are placed at the end of sentences and, like Speech Act Words, are obligatory. How one is actually supposed to recall, in conversation, the source of one’s information, is not explained by the author.
-
-<-->
-
 ---
 
 # Toki Pona
@@ -259,12 +227,13 @@ Evidentials are placed at the end of sentences and, like Speech Act Words, are o
 
 ---
 
-| toki pona           | literal English          | English   |
-| ---                 | ---                      | ---       |
-| *telo*              | *"water"*                | *water*   |
-| *telo nasa*         | *"crazy water"*          | *alcohol* |
-| *tomo*              | *"house"*                | *house*   |
-| *tomo pi telo nasa* | *"house of crazy water"* | *bar*     |
+| toki pona           | literal English | English   |
+| ---                 | ---             | ---       |
+| *telo*              | *"water"*       | *water*   |
+| *telo nasa*         | *"crazy water"* | *alcohol* |
+| *tomo*              | *"house"*       | *house*   |
+| *tomo pi telo nasa* | *"house of*     | *bar*     |
+|                     | *crazy water"*  |           |
 
 ---
 
@@ -315,7 +284,14 @@ Evidentials are placed at the end of sentences and, like Speech Act Words, are o
 
 ---
 
-# [fit] o pona mute tan kute!
+> o pona mute tan kute!
+
+---
+
+### *Lingua Ignota*
+## A Tale of Three Constructed Languages
+### *Láadan and Toki Pona*
+#### by jan Wen
 
 ---
 
@@ -324,11 +300,11 @@ Evidentials are placed at the end of sentences and, like Speech Act Words, are o
 ---
 
 - *Lingua Ignota* *(Wikipedia)*
-- *Creating a ‘Truer’ Language Within a Work of Fiction* *(E-rea)*
-  *by* Ruth Menzies
 - *Láadan Language* *(laadanlanguage.wordpress.com)*
   *by* Suzette Haden Elgin *and the Láadan community*
 - *More Than Words: Láadan* *(Autostraddle)*
   *by* Cara Giaimo
+- *Creating a ‘Truer’ Language Within a Work of Fiction* *(E-rea)*
+  *by* Ruth Menzies
 - *Toki Pona: The Language of Good* *(Tawahid)*
   *by* Sonja Lang
